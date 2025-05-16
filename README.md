@@ -1,15 +1,9 @@
 ---
-
-```
-# 📱 prog-5-ussd
-
-> Un système de menus interactifs USSD développé en TypeScript, permettant une navigation fluide à travers différentes options telles que MVOLA, offres, services, etc.
-
 ---
 
 ## 🚀 Objectif
 
-Mettre en place un système de menus USSD avec les **bonnes pratiques de développement** :
+Mettre en place un système de menus USSD avec les **bonnes pratiques de développement**:
 
 - Conventions de nommage cohérentes
 - Utilisation d'un linter (ESLint)
